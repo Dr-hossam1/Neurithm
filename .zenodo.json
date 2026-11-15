@@ -1,0 +1,17 @@
+{
+  "title": "Neurithm: code for \"Neurithm: a BCI-based deep learning algorithm that generates speech from EEG signals\"",
+  "upload_type": "software",
+  "description": "Preprocessing pipelines for the ArEEG_Chars, ArEEG_Words and English speech decoding datasets, EEGNet and EEG Transformer implementations, training and evaluation notebooks, trained models, the local inference server and the Neurithm Flutter mobile app.",
+  "creators": [
+    {"name": "AbdelRahman, Hossam"},
+    {"name": "Elmasry, Noha"},
+    {"name": "Omran, Jana Hani"},
+    {"name": "Aly, Yassmin Ezzat"},
+    {"name": "Hatem, Fatemah"},
+    {"name": "Helmy, Malak Mohamed"},
+    {"name": "AlKarimy, Sara"}
+  ],
+  "license": "MIT",
+  "keywords": ["EEG", "brain-computer interface", "speech decoding", "Arabic", "EEGNet", "Transformer", "ALS"],
+  "access_right": "open"
+}

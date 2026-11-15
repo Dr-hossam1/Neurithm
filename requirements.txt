@@ -1,0 +1,28 @@
+# Python 3.10 (Google Colab, NVIDIA T4 GPU)
+
+# EEG preprocessing (filtering, ICA, ICLabel)
+mne>=1.6
+mne-icalabel
+scipy
+numpy
+pandas
+
+# Models (EEGNet, EEG Transformer) and evaluation
+tensorflow>=2.15
+keras
+keras-tuner
+scikit-learn>=1.3
+h5py
+
+# Figures
+matplotlib
+seaborn
+
+# Local inference server (local server/apiserver.py, neurithm/lib/app.py)
+flask
+flask-cors
+python-dotenv
+requests
+pyngrok
+pydub
+TTS
